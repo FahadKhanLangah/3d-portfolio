@@ -17,7 +17,7 @@ export const PERSONAL_INFO = {
   location: "Pakistan (Available for Remote Worldwide)",
   agencyUrl: "https://www.noxvira.com",
   portfolioUrl: "https://fahad-khan-portfolio.vercel.app",
-  github: "https://github.com/fahadkhanavoid",
+  github: "https://github.com/FahadKhanLangah",
   linkedin: "https://www.linkedin.com/in/fahad-khan-fullstack",
   whatsappUrl: "https://wa.me/923187357005?text=Hi%20Fahad,%20I%20saw%20your%203D%20portfolio%20and%20would%20like%20to%20discuss%20an%20opportunity!",
   experienceYears: "3+",
