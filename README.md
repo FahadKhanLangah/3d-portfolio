@@ -63,4 +63,4 @@ npm run preview
 * **Email:** [fahadkhanavoid@gmail.com](mailto:fahadkhanavoid@gmail.com)
 * **Agency:** [Noxvira.com](https://www.noxvira.com)
 * **WhatsApp:** [+92-318-7357005](https://wa.me/923187357005)
-* **LinkedIn:** [linkedin.com/in/fahad-khan-fullstack](https://www.linkedin.com/in/fahad-khan-fullstack)
+* **LinkedIn:** [linkedin.com/in/fahad-khan-noxvira](https://www.linkedin.com/in/fahad-khan-noxvira)
